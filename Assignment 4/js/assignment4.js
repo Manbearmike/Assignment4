@@ -10,4 +10,4 @@ function MenuChoice()
             else
             {         document.getElementById("FirstSection").style.visibility = "hidden";
                     document.getElementById("SecondSection").style.visibility = "hidden";
-            } }
+            }}

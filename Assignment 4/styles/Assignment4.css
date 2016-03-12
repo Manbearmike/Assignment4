@@ -1,14 +1,13 @@
 h1 {font-size: 24pt; text-align: center; color: orchid;}
 Body {background-color: black;}
-h2 {
-    max-height: 600px;
+h2 { 
     max-width: 600px;
     position:absolute;
     top: 50%;
     left: 50%;
-    margin-top:-300px;   /*half the elements heighth*/ 
+    padding-top: 10px;   /*half the elements heighth*/ 
     margin-left:-300px; 
     }
 section.FirstSection {background-color: black; visibility: hidden; color: DeepSkyBlue; text-align: center;}
 section.SecondSection {background-color: black; visibility: hidden; color: crimson; text-align: center;}
-footer {color: orchid; visibility: visible; text-align:center; padding-top: 800px;}
+footer {color: orchid; visibility: visible; text-align:center; padding-top: 700px;}
